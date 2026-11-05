@@ -618,7 +618,7 @@
     },
     "jax": {
       "name": "jax",
-      "id": "1493703027801194598"
+      "id": "1409995768395464754"
     },
     "karam": {
       "name": "karam",
@@ -647,6 +647,26 @@
     "f3tch": {
       "name": "f3tch",
       "id": "1016388460929626174"
+    },
+    "kaxtusik": {
+      "name": "kaxtusik",
+      "id": "549599621056561152"
+    },
+    "Kaerion": {
+      "name": "Kaerion",
+      "id": "1409130527973441658"
+    },
+    "imnotplayinginreallife": {
+      "name": "I'm not playing in real life",
+      "id": "841939724306087986"
+    },
+    "Nays": {
+      "name": "Nays",
+      "id": "344871509677965313"
+    },
+    "NiNoX": {
+      "name": "NiNoX",
+      "id": "123435354958200833"
     }
   },
   "equicord": {
@@ -1270,8 +1290,8 @@
       "name": "Leon135",
       "id": "309275452231385088"
     },
-    "bbpltergiest": {
-      "name": "bbpltergiest",
+    "luqenov": {
+      "name": "luqenov",
       "id": "279448683672502274"
     },
     "mshl": {
@@ -1405,6 +1425,10 @@
     "karam": {
       "name": "karam",
       "id": "1246787178466508879"
+    },
+    "rot": {
+      "name": "rot",
+      "id": "1021210809164111932"
     }
   }
 }
