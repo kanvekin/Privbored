@@ -628,6 +628,10 @@
       "name": "yuna0x0",
       "id": "213656926414831616"
     },
+    "theo": {
+      "name": "theo",
+      "id": "1081551899397992509"
+    },
     "scattagain": {
       "name": "Amelia",
       "id": "1098234477626544180"
@@ -667,9 +671,17 @@
     "NiNoX": {
       "name": "NiNoX",
       "id": "123435354958200833"
+    },
+    "Cramber": {
+      "name": "Cramber",
+      "id": "342564015974907914"
     }
   },
   "equicord": {
+    "lethied": {
+      "name": "lethied",
+      "id": "892246841016590386"
+    },
     "nobody": {
       "name": "nobody",
       "id": "0"
@@ -1437,6 +1449,14 @@
     "itzmeshadow999": {
       "name": "ItzMeShadow999",
       "id": "1065604516399026176"
+    },
+    "dev0xz02": {
+      "name": "dev0xz02",
+      "id": "1135547862533550141"
+    },
+    "ShaunLWM": {
+      "name": "sprxsheep",
+      "id": "130964561900732416"
     }
   }
 }
